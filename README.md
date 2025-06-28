@@ -8,7 +8,7 @@
 
 ## 📁 설치 방법
 1. 우측 [Releases](https://github.com/geungogma/RogueTrader-KoreanPatch/releases) 탭에서 최신 버전의 압축 파일을 다운로드합니다.
-2. C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager로 가셔서 '여기에 풀기'로 풀어주세요.
+2. C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager로 가셔서 `여기에 풀기`로 풀어주세요.
 
 
 ## ⚠️ 주의 사항
