@@ -13,8 +13,7 @@
 
 ## ⚠️ 주의 사항
 - 이 모드는 게임 폴더의 `StreamingAssets/Localization/enGB.json` 파일을 직접 덮어씌웁니다.
-- 게임을 **관리자 권한으로 실행**해 주세요.
-  실행법 : (게임을 설치한 드라이브):\steam\steamapps\common\Warhammer 40,000 Rogue Trader의 WH40KRT.exe를 우클릭하여 속성을 여시고, 호환성 탭에 들어가셔서 `관리자 권한으로 이 프로그램으로 실행`을 클릭해주세요.
+- 게임을 **관리자 권한으로 실행**해 주세요(실행법: 게임을 설치한 드라이브:\steam\steamapps\common\Warhammer 40,000 Rogue Trader 경로로 가셔서 `WH40KRT.exe`를 `우클릭`하여 `속성`을 여시고, `호환성` 탭에 들어가셔서 `관리자 권한으로 이 프로그램으로 실행`을 클릭해주세요.)
 - 기존 `enGB.json` 파일을 백업해두는 것이 좋습니다.
 
 ## 📄 파일 구성
