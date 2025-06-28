@@ -19,7 +19,6 @@
 ## 📄 파일 구성
 - `KoreanPatch_AutoUpdate.dll` - 핵심 로직을 수행하는 모드 코드
 - `info.json` - Unity Mod Manager용 메타 정보
-- `README.md` - 사용 설명서
 
 ## 📄 현재 번역된 부분
 1. 본편
