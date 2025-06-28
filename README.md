@@ -4,7 +4,6 @@
 
 ## ✅ 주요 기능
 - 매번 게임을 실행할 때 자동으로 최신 `enGB.json`을 다운로드하여 적용합니다.
-- Unity Mod Manager(UMM)를 통해 쉽게 설치 및 사용 가능합니다.
 
 ## 📁 설치 방법
 1. 우측 [Releases](https://github.com/geungogma/RogueTrader-KoreanPatch/releases) 탭에서 최신 버전의 압축 파일을 다운로드합니다.
