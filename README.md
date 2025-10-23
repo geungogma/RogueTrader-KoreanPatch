@@ -80,7 +80,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 ---
 
 ### 🧬 3. 출신 및 아키타입
-- **출신**
+- **출신**  
     1.아르비트레이터
 - **아키타입**  
     1.오버시어
