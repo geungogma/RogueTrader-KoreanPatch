@@ -86,7 +86,6 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 
 ## 📬 문의 및 지원
 - 📢 패치 관련 문의: [RPG 갤러리 게시글](https://gall.dcinside.com/mgallery/board/view/?id=rpgundivded&no=52499) 
-- 🧪 Cynet 오탐 신고 완료 → 안심하고 사용 가능 ✅
 
 ---
 
