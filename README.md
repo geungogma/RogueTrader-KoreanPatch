@@ -37,10 +37,9 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 ---
 
 ## ⚠️ 주의 사항
-- 이 모드는 게임 폴더의 `StreamingAssets/Localization/enGB.json` 파일을 덮어씁니다.  
-- **스팀 관리자 권한** 및 **
-- 폰트 모드의 경우 Windows 보안 경고가 발생할 수 있으나, VirusTotal 검사 결과 → 72개 엔진 중 71개 정상 판정 (Cynet 오탐 1건).  
+- 이 모드는 게임 폴더의 `StreamingAssets/Localization/enGB.json` 파일을 덮어씁니다.
 - 기존 `enGB.json` 파일은 백업해 두는 것을 권장합니다.
+- 폰트 모드의 경우 Windows 보안 경고가 발생할 수 있으나, VirusTotal 검사 결과 72개 엔진 중 71개에서 정상으로 판정되었습니다. (Cynet 오탐 1건).  
 
 ---
 
@@ -98,7 +97,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 
 ---
 
-## 📬 문의 및 지원
+## 📬 문의
 - 📢 패치 관련 문의: [RPG 갤러리 게시글](https://gall.dcinside.com/mgallery/board/view/?id=rpgundivded&no=52499) 
 
 ---
