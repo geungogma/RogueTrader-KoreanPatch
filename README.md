@@ -46,15 +46,15 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - **프롤로그**
 - 1막(라이카드 마요리스, DLC 행성 제외)
 - **2막**
-- 풋폴
-- 야누스
-- 키아바 감마(진행 중)
-- 다르고누스(~2막 끝까지)
+    1.풋폴
+    2.야누스
+    3.키아바 감마(진행 중)
+    4.다르고누스(~2막 끝까지)
 - **4막**
-- 유프라테스II (대성당 일부)
+    1.유프라테스II (대성당 일부)
 - **함교 대화**
-- 동료 : 아벨라드, 이디라, 아르젠타, 카시아, 파스칼, 하인릭스, 솔로몬
-- 초상화 있는 NPC들(단 수석 집사는 평범한 존댓말이 있을 수 있습니다)
+    1.동료 : 아벨라드, 이디라, 아르젠타, 카시아, 파스칼, 하인릭스, 솔로몬
+    2.초상화 있는 NPC들(단 수석 집사는 평범한 존댓말이 있을 수 있습니다)
 
 ---
 
@@ -82,8 +82,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 ---
 
 ## 📬 문의 및 지원
-- 📢 패치 관련 문의: [RPG 갤러리 게시글](https://gall.dcinside.com/mgallery/board/view/?id=rpgundivded&no=24156)  
-- ✉️ 제작자 깃허브: [geungogma](https://github.com/geungogma)  
+- 📢 패치 관련 문의: [RPG 갤러리 게시글](https://gall.dcinside.com/mgallery/board/view/?id=rpgundivded&no=52499) 
 - 🧪 Cynet 오탐 신고 완료 → 안심하고 사용 가능 ✅
 
 ---
