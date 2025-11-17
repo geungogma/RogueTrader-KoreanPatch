@@ -61,7 +61,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 ### 2막
 1. 풋폴  
 2. 아누스  
-3. 키아바 감마 (진행 중)  
+3. 키아바 감마
 4. 다르고누스 (~2막 끝까지)
 
 ### 4막
@@ -93,6 +93,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 아르젠타 (1막, 2막 퀘스트)
 - 카시아 (1막 퀘스트)
 - 파스칼 (2막 퀘스트)
+- 하인릭스 (2막 퀘스트)
 - 자이 (2막 퀘스트)
 
 ---
