@@ -59,7 +59,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - **프롤로그**
 - 1막(라이카드 마요리스, DLC 행성 제외)
 ### 2막
-1 인트로
+1. 인트로
 2. 풋폴
 3. 아누스  
 4. 키아바 감마
@@ -72,6 +72,8 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 1. 동료 : 아벨라드, 이디라, 아르젠타, 카시아, 파스칼, 하인릭스, 솔로몬  
 2. 초상화 있는 NPC들 (단 수석 집사는 평범한 존댓말이 있을 수 있습니다)
 
+### 항해 이벤트
+1. 스크립트 상 2막 쪽에 있는 이벤트들
 
 ---
 
