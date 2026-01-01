@@ -59,10 +59,11 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - **프롤로그**
 - 1막(라이카드 마요리스, DLC 행성 제외)
 ### 2막
-1. 풋폴  
-2. 아누스  
-3. 키아바 감마
-4. 다르고누스 (~2막 끝까지)
+1 인트로
+2. 풋폴
+3. 아누스  
+4. 키아바 감마
+5. 다르고누스
 
 ### 4막
 1. 유프라테스Ⅱ (대성당 일부)
