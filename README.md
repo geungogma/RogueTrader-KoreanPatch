@@ -56,7 +56,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 ## 📚 손번역 완료된 구간
 
 ### 🧭 1. 본편
-- **프롤로그**
+- 프롤로그
 - 1막(라이카드 마요리스, DLC 행성 제외)
 - 2막(행성 운영, 항해 이벤트, 로맨스 제외)
 
