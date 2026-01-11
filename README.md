@@ -60,7 +60,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 1막(라이카드 마요리스, DLC 행성 제외)
 - 2막(행성 운영, 항해 이벤트, 로맨스 제외)
 - 3막
-1.투기장
+1. 투기장
 - 4막
 1. 유프라테스Ⅱ (대성당 일부)
 
