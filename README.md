@@ -62,6 +62,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 3막
 1. 투기장
 2. 구렁 일부(진행중)
+3. 녹턴 파트
 - 4막
 1. 유프라테스Ⅱ (대성당 일부)
 
