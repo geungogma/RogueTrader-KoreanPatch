@@ -61,9 +61,10 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 2막(행성 운영, 항해 이벤트, 로맨스 제외)
 - 3막
 1. 투기장
-2. 테르반티아스(해부 오페라)
-3. 녹턴
-4. 구렁 일부(진행중)
+2. 구렁
+3. 해부 오페라
+4. 녹턴
+5. 거리(진행중)
 - 4막
 1. 유프라테스Ⅱ (대성당 일부)
 
