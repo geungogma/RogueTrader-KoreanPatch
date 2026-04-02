@@ -63,8 +63,8 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 1. 투기장
 2. 구렁
 3. 해부 오페라
-4. 녹턴
-5. 외부 첨탑(진행중)
+4. 외부 첨탑
+5. 중앙 첨탑(진행중)
 - 4막
 1. 유프라테스Ⅱ (대성당 일부)
 
