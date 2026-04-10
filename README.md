@@ -96,7 +96,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 파스칼 (2막 퀘스트)
 - 하인릭스 (2막 퀘스트)
 - 자이 (2막 퀘스트)
-- 이를리엣 (3막 퀘스트)
+- 이를리엣 (3막 퀘스트-진행중)
 
 ---
 
