@@ -102,7 +102,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 
 ---
 
-### 🗺️ 5. 로드맵
+## 🗺️ 로드맵
 **3막 마무리 → DLC1 번역 → 4막 마무리(동료 퀘스트/로맨스 포함)**  
 **→ 행성 운영/항해 이벤트/스킬/시스템 텍스트 정리 → 5막 진행**
 
