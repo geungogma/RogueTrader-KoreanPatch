@@ -102,6 +102,16 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 
 ---
 
+### 로드맵
+
+- [ ] 3막 마무리
+- [ ] DLC1 번역
+- [ ] 4막 마무리
+- [ ] 행성 운영 / 항해 이벤트 / 스킬 / 시스템 텍스트 정리
+- [ ] 5막 진행
+
+---
+
 ## 📬 문의
 - 📢 패치 관련 문의: [RPG 갤러리 게시글](https://gall.dcinside.com/mgallery/board/view/?id=rpgundivded&no=52499) 
 
