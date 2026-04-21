@@ -61,7 +61,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 2막(행성 운영, 항해 이벤트, 로맨스 제외)
 - 3막(로맨스 제외)
 - 4막
-1. 유프라테스Ⅱ (대성당 일부)
+  1. 유프라테스Ⅱ (대성당 일부)
 
 ### 함교 대화
 1. 동료 : 완료
@@ -72,7 +72,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 
 ### 🧩 2. DLC
 - 공허 속 그림자(DLC1)
-1. 아스트로패스 예배당(진행중)
+  1. 아스트로패스 예배당(진행중)
 - 렉스 임페리알리스(DLC2) (완료)
 
 ---
