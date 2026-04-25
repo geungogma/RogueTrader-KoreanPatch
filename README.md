@@ -72,8 +72,9 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 
 ### 🧩 2. DLC
 - **공허의 그림자(DLC1)**
-  1. 아스트로패스 예배당(진행중)
-- **렉스 임페리알리스(DLC2) (완료)***
+  1. 아스트로패스 예배당
+  2. 동료 무작위 대화(진행중)
+- **렉스 임페리알리스(DLC2) (완료)**
 
 ---
 
