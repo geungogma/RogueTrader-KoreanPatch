@@ -64,8 +64,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
   1. 유프라테스Ⅱ (대성당 일부)
 
 ### 함교 대화
-- 동료 : 완료
-- 초상화 있는 NPC들 (단 수석 집사는 평범한 존댓말이 있을 수 있습니다)
+- 동료 및 상주 NPC들: 완료
 - 코지테이터
   
 ---
@@ -73,7 +72,8 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 ### 🧩 2. DLC
 - **공허의 그림자(DLC1)**
   1. 아스트로패스 예배당
-  2. 동료 무작위 대화(진행중)
+  2. 동료 무작위 대화
+  3. 함교(진행중)
 - **렉스 임페리알리스(DLC2) (완료)**
 
 ---
