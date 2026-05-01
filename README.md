@@ -64,7 +64,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
   1. 유프라테스Ⅱ (대성당 일부)
 
 ### 함교 대화
-- 동료 및 상주 NPC들: 완료
+- 동료 및 상주 NPC들
 - 코지테이터
   
 ---
