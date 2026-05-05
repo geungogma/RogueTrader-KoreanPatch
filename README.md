@@ -74,7 +74,8 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
   1. 아스트로패스 예배당
   2. 동료 무작위 대화
   3. 함교(키벨라 동료퀘 제외)
-  4. 욕실(진행중)
+  4. 욕실
+  5. 행성 스캔 대사(진행중)
 - **렉스 임페리알리스(DLC2) (완료)**
 
 ---
