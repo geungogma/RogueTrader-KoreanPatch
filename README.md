@@ -8,7 +8,7 @@
 ---
 
 ## 🤝 기여 및 감사
-- bicos님께서 PR #3을 통해 미번역 영문 항목에 대한 AI 초벌 번역을 제공해 주셨습니다.
+- bicos님(https://github.com/bicos/RogueTrader-KoreanPatch/releases/tag/v1.6-ai-translation)께서 미번역 영문 항목에 대한 AI 초벌 번역을 제공해 주셨습니다.
 - 소중한 기여에 감사드립니다!
 
 ---
