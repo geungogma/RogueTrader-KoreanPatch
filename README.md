@@ -3,11 +3,12 @@
 ## ⚔️ 한글화 & 폰트 패치
 ✍️ 번역자 & 제작자: **군고그마**<br>
 🧪 이 패치는 영문 번역 파일(`enGB.json`)을 최신 한국어 버전으로 자동 교체해 주며, 1.5 버전부터의 폰트를 지원합니다.<br>
-📅 업데이트: 26.06.13.
+📅 업데이트: 26.06.14.
 
 ---
 
 ## 🤝 기여 및 감사
+- daivernoon님(https://daivernon.tistory.com/1) 께서 DLC2 발매 이전까지의 AI  번역을 제공해주셨습니다.
 - bicos님(https://github.com/bicos/RogueTrader-KoreanPatch/releases/tag/v1.6-ai-translation) 께서 미번역 영문 항목에 대한 AI 초벌 번역을 제공해 주셨습니다.
 - 소중한 기여에 감사드립니다!
 
@@ -69,10 +70,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 3막(로맨스 제외)
 - 4막
   1. 유프라테스Ⅱ (대성당 일부)
-
-### 함교 대화
-- 동료 및 상주 NPC들
-- 코지테이터
+- 함교 대화
   
 ---
 
@@ -86,6 +84,8 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - **렉스 임페리알리스(DLC2) (완료)**
 - **무한의 박물관(DLC3)**
   1. 주인공 개인실
+  2. 3막
+  3. 에오군 함교 대화(진행중)
 
 ---
 
