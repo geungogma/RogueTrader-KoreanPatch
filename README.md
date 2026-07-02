@@ -3,7 +3,7 @@
 ## ⚔️ 한글화 & 폰트 패치
 ✍️ 번역자 & 제작자: **군고그마**<br>
 🧪 이 패치는 영문 번역 파일(`enGB.json`)을 최신 한국어 버전으로 자동 교체해 주며, 1.5 버전부터의 폰트를 지원합니다.<br>
-📅 업데이트: 26.07.01.
+📅 업데이트: 26.07.02.
 
 ---
 
@@ -86,6 +86,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
   1. 주인공 개인실
   2. 3막
   3. 에오군 함교 대화
+  4. 에오군-파스칼 논쟁(진행중)
 
 ---
 
@@ -107,7 +108,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 자이 (2막 퀘스트)
 - 이를리엣 (3막 퀘스트)
 - 키벨라 (첫번째 퀘스트 완료, 두번째 퀘스트는 DLC3 번역 이후 마저 진행)
-- 에오쿤(첫번째 퀘스트 완료, 두번째 퀘스트 진행중)
+- 에오군(완료)
 
 ---
 
