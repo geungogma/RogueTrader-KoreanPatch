@@ -88,6 +88,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
   3. 에오군 함교 대화
   4. 에오군-파스칼 논쟁
   5. 에오군 첫만남
+  6. 에오군 실험(진행중)
 
 ---
 
