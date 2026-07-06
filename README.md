@@ -85,10 +85,8 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - **무한의 박물관(DLC3)**
   1. 주인공 개인실
   2. 3막
-  3. 에오군 함교 대화
-  4. 에오군-파스칼 논쟁
-  5. 에오군 첫만남
-  6. 에오군 실험(진행중)
+  3. 에오군 함교 대화 및 개인 스토리
+  4. 자르코프(진행중)
 
 ---
 
