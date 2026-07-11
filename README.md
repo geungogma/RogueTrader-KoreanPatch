@@ -46,8 +46,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 
 ## ⚠️ 주의 사항
 - 이 모드는 게임 폴더의 `StreamingAssets/Localization/enGB.json` 파일을 덮어씁니다.
-- 기존 `enGB.json` 파일은 백업해 두는 것을 권장합니다.
-- 폰트 모드의 경우 Windows 보안 경고가 발생할 수 있으나, VirusTotal 검사 결과 72개 엔진 중 71개에서 정상으로 판정되었습니다. (Cynet 오탐 1건).  
+- 기존 `enGB.json` 파일은 백업해 두는 것을 권장합니다. 
 
 ---
 
