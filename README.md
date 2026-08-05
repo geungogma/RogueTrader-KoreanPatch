@@ -89,7 +89,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
   5. 에필로그(DLC3 에필로그 한정)
   6. 탐험 이벤트(DLC3 탐험 이벤트 한정)
   7. 바이오니카 구역
-  8. 자르코프 운영(진행중)
+  8. 티르쿠아즈-4(진행중)
 ---
 
 ### 🧬 3. 출신 및 아키타입
