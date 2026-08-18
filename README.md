@@ -3,13 +3,14 @@
 ## ⚔️ 한글화 & 폰트 패치
 ✍️ 번역자 & 제작자: **군고그마**<br>
 🧪 이 패치는 영문 번역 파일(`enGB.json`)을 최신 한국어 버전으로 자동 교체해 주며, 1.5 버전부터의 폰트를 지원합니다.<br>
-📅 업데이트: 26.08.16.
+📅 업데이트: 26.08.17.
 
 ---
 
 ## 🤝 기여 및 감사
 - daivernoon님(https://daivernon.tistory.com/1) 께서 DLC2 발매 이전까지의 AI  번역을 제공해주셨습니다.
 - bicos님(https://github.com/bicos/RogueTrader-KoreanPatch/releases/tag/v1.6-ai-translation) 께서 미번역 영문 항목에 대한 AI 초벌 번역을 제공해 주셨습니다.
+- 슈팅스타님 및 ㅇㅇ님께서 기계 번역 부분을 gpt 5.6 sol max로 재번역한 버전을 제공해주셨습니다.
 - 소중한 기여에 감사드립니다!
 
 ---
