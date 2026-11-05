@@ -70,7 +70,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
 - 3막(로맨스 제외)
 - 4막
   1. 유프라테스Ⅱ (대성당 일부)
-- 함교 대화
+- 함교 대화(DLC3 NPC 제외)
   
 ---
 
@@ -92,7 +92,7 @@ C:\Users%USERNAME%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\Un
   7. 바이오니카 구역
   8. 티르쿠아즈-4
   9. 박물관
-  10. 함교
+  10. 함교(진행중)
 ---
 
 ### 🧬 3. 출신 및 아키타입
